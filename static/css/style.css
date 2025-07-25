@@ -1,0 +1,21 @@
+/* Custom CSS for confetti animation */
+.confetti {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: #f0f; /* Default color, will be overridden */
+    border-radius: 50%; /* Make them circles or squares */
+    opacity: 0;
+    animation: confetti-fall 2s forwards ease-out;
+}
+
+@keyframes confetti-fall {
+    0% {
+        transform: translate(0, 0) rotate(0deg) scale(1);
+        opacity: 1;
+    }
+    100% {
+        transform: translate(var(--x), var(--y)) rotate(var(--rot)) scale(0.5);
+        opacity: 0;
+    }
+}

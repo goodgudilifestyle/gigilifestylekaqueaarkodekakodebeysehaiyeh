@@ -32,7 +32,7 @@ def save_json_file(filepath, data):
 initial_offers = [
     {
         "id": "offer_1",
-        "name": "1 Ceramic bowl @ 50%",
+        "name": "1 Ceramic bowl @ 50% OFF",
         "image": "ceramic_bowls.png",
         "max_usage": 10000000,
         "used_count": 0,
@@ -40,7 +40,7 @@ initial_offers = [
     },
     {
         "id": "offer_2",
-        "name": "1 Kids bath mat @ 50%",
+        "name": "1 Kids bath mat @ 50% OFF",
         "image": "bath_mat.png",
         "max_usage": 10000000,
         "used_count": 0,
@@ -48,7 +48,7 @@ initial_offers = [
     },
     {
         "id": "offer_3",
-        "name": "1 Wax perfume @ 50%",
+        "name": "1 Wax perfume @ 50% OFF",
         "image": "wax_perfume.png",
         "max_usage": 10000000,
         "used_count": 0,
@@ -56,7 +56,7 @@ initial_offers = [
     },
     {
         "id": "offer_4",
-        "name": "3 greeting cards for free",
+        "name": "3 greeting cards @ 50% OFF",
         "image": "greeting_cards.png",
         "max_usage": 10000000,
         "used_count": 0,
@@ -64,7 +64,7 @@ initial_offers = [
     },
     {
         "id": "offer_5",
-        "name": "2 Face sheet masks for free",
+        "name": "2 Face sheet masks @ 50% OFF",
         "image": "FSM.png",
         "max_usage": 10000000,
         "used_count": 0,
@@ -72,7 +72,7 @@ initial_offers = [
     },
     {
         "id": "offer_6",
-        "name": "1 Crochet sunflower @ 50%",
+        "name": "1 Crochet sunflower @ 50% OFF",
         "image": "crochet.png",
         "max_usage": 10000000,
         "used_count": 0,
@@ -80,7 +80,7 @@ initial_offers = [
     },
     {
         "id": "offer_7",
-        "name": "1 Notebook cartoon @ 50%",
+        "name": "1 Notebook cartoon @ 50% OFF",
         "image": "notebook_cartoon.png",
         "max_usage": 10000000,
         "used_count": 0,
@@ -88,7 +88,7 @@ initial_offers = [
     },
     {
         "id": "offer_8",
-        "name": "1 Sip smart tumbler @ 50%",
+        "name": "1 Sip smart tumbler @ 50% OFF",
         "image": "sip_smart_tumbler.png",
         "max_usage": 10000000,
         "used_count": 0,
@@ -96,7 +96,7 @@ initial_offers = [
     },
     {
         "id": "offer_9",
-        "name": "1 Goodgudi copper bottle @ 50%",
+        "name": "1 Goodgudi copper bottle @ 50% OFF",
         "image": "copper_bottle.png",
         "max_usage": 10000000,
         "used_count": 0,

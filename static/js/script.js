@@ -249,8 +249,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const invoiceNumber = invoiceInput.value.trim();
 
         // Client-side validation for exactly 4 digits
-        if (!invoiceNumber || !/^\d{4}$/.test(invoiceNumber)) {
-            showAlert("Invalid Input", "Please enter exactly the last 4 digits of your invoice number.");
+        if (!invoiceNumber || !/^\d{10}$/.test(invoiceNumber)) {
+            showAlert("Invalid Input", "Please enter a valid phone number.");
             return;
         }
 

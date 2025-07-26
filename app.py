@@ -60,7 +60,7 @@ initial_offers = [
         "image": "greeting_cards.png",
         "max_usage": 10000000,
         "used_count": 0,
-        "probability": 7.5
+        "probability": 10
     },
     {
         "id": "offer_5",
@@ -68,7 +68,7 @@ initial_offers = [
         "image": "FSM.png",
         "max_usage": 10000000,
         "used_count": 0,
-        "probability": 7.5
+        "probability": 10
     },
     {
         "id": "offer_6",
